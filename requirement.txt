@@ -1,0 +1,5 @@
+pypdf2
+sentence-transformers
+scikit-learn
+grpcio==1.49.1
+pymilvus==2.1.0
